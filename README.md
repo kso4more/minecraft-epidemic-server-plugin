@@ -67,6 +67,7 @@ The goal is to explore how individuals learn and respond to uncertainty in an in
 This project contributed to the following research:
 
 > *Multiplayer Online Game-Based Framework for Exploring Human Contact Behavior and Adaptive Decision-Making During Pandemics*
+> [View Paper](https://dl.acm.org/doi/10.1145/3761843.3764066)
 > 
 > 
 > ACM Conference (2026)
