@@ -1,0 +1,17 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "down": false,
+        "east": false,
+        "north": false,
+        "south": false,
+        "up": false,
+        "west": true
+      },
+      "apply": {
+        "model": "minecraft:blocks/stone"
+      }
+    }
+  ]
+}
